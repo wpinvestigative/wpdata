@@ -14,5 +14,5 @@ Functions so far:
 
 ```
 #install.packages("remotes")
-remotes::install_github("wpmedia/wpdata")
+remotes::install_github("wpinvestigative/wpdata")
 ```
